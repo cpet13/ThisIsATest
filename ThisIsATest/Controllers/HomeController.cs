@@ -12,6 +12,7 @@ namespace ThisIsATest.Controllers
         {
             return View(); //this is a comments about the wonders of life
             //Another comment
+            //Comments
         }
 
         public ActionResult About()
