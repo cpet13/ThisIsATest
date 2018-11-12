@@ -11,6 +11,7 @@ namespace ThisIsATest.Controllers
         public ActionResult Index()
         {
             return View(); //this is a comments about the wonders of life
+            //Another comment
         }
 
         public ActionResult About()
