@@ -10,7 +10,7 @@ namespace ThisIsATest.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View(); //this is a comments about the wonders of life
         }
 
         public ActionResult About()
